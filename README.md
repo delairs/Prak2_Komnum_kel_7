@@ -1,14 +1,13 @@
-# P2_Komnum_B6
+# Prak2_Komnum_kel_7
  
 Praktikum 2 Komputasi Numerik
-KomNum B
  
-Kelompok  6
+Kelompok  7
 
 Anggota :
-1.  M. Armand Giovani (5025211054)
-2.  Fathin Muhashibi Putra (5025211229)
-3.  Dafarel Fatih Wirayudha (5025211120)
+1.  Muhammad Rifqi Ma'ruf    (5025221060)
+2.  Delai Resgista Setyawan  (5025211221)
+3.  Muhammad Fayyadh Rahinda (5025211224)
 
 ## SOAL PRAKTIKUM 2 KOMPUTASI NUMERIK
 <img width="422" alt="image" src="https://user-images.githubusercontent.com/103252800/208883533-65a60492-2f81-476f-ae14-a2cafe5dfa7f.png">
